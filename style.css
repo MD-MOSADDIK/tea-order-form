@@ -1,0 +1,56 @@
+header{
+    margin-right: 64% ; 
+    text-align: center;
+    background-image: linear-gradient(to right, blue, yellow, red);}   
+
+.personal-info{
+    margin: 2% 65% 0% 2%;
+    color: rgb(252, 0, 63);
+    background-image: linear-gradient(to right, yellow,rgb(76, 212, 76));
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0) ;}    
+
+.cha-option{
+    color: rgb(255, 255, 255);
+    background-image:radial-gradient(rgb(194, 226, 14), rgb(255, 167, 2), red);
+    margin: 2% 65% 0% 2%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0) ;}
+
+.vorta{
+    color: cornsilk;
+    background-color: darkmagenta;
+    margin: 2% 65% 0% 2%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0) ;}  
+
+legend{
+    border: solid black 2px;
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0) ;}  
+
+.special{
+    background-image: linear-gradient(blue,red,yellow);
+    margin: 2% 65% 0% 2%;
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(7, 7, 7) ;}
+
+button{
+    margin: 2% 40% 10% 50%;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0);
+    background-color: rgb(252, 0, 63);}
+body{ margin: 0px;}
+
+form{
+    margin-left: 38%;}
+
+
+
+.form{
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;}    
+
